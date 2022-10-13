@@ -1,0 +1,45 @@
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+ .travel_mainDiv img           
+ {
+    width:100%;
+ }  
+
+ .travel_mainDiv h5,.travel_mainDiv p
+ {
+    margin:20px;
+ }
+ .movie_head
+ {
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 100px;
+margin-bottom: 15px;
+ }
+
+ .movie_head1 
+ {
+   float:right;
+ }
+ .achivement_textn span
+ {
+   color:orange;
+ }
+ .new
+ {
+  margin-bottom: 20px;
+ }
+ #contact iframe 
+ {
+  width: 100%;zz
+ }
+ .new
+ {
+  margin bottom:20px;
+ }
+ #contact iframe
+{
+   width: 100%;
+}
